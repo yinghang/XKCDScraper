@@ -1,3 +1,3 @@
 # XKCDScraper
 
-Basic XKCD Web Scraper copied from the book “Automate the Boring Stuff with Python” and edited to make sure it’s fully functional with BeautifulSoup.
+ XKCD Web Scraper from the book “Automate the Boring Stuff with Python” that is edited to make sure it’s fully functional with BeautifulSoup.
